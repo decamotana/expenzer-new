@@ -218,11 +218,11 @@ scratch. This page gets rid of all links and provides the needed markup only.
                     var bar_data = {
                         data: [
                             [1, food_total],
-                            [2, inve_total],
+                            [2, tran_total],
                             [3, pers_total],
-                            [4, sala_total],
-                            [5, shop_total],
-                            [6, tran_total]
+                            [4, shop_total],
+                            [5, sala_total],
+                            [6, inve_total]
                         ],
                         bars: {
                             show: true
