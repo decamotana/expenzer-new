@@ -84,8 +84,8 @@ if (isset($_POST['calendar_id'])) {
         die("Connection failed: " . mysqli_connect_error());
     }
 
-    // $id = $_POST['calendar_id'];
-    $id = 1;
+    $id = $_POST['calendar_id'];
+    // $id = 1;
     $json = array();
 
     // food
