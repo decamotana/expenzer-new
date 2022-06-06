@@ -61,12 +61,20 @@
     <!-- jQuery UI -->
     <script src="./plugins/jquery-ui/jquery-ui.min.js"></script>
 
-
     <!-- AdminLTE App -->
     <script src="./dist/js/adminlte.min.js"></script>
 
     <!-- fullCalendar 2.2.5 -->
     <script src="./plugins/fullcalendar/main.js"></script>
+
+    <!-- FLOT CHARTS -->
+    <script src="./plugins/flot/jquery.flot.js"></script>
+
+    <!-- FLOT RESIZE PLUGIN - allows the chart to redraw when the window is resized -->
+    <script src="./plugins/flot/plugins/jquery.flot.resize.js"></script>
+
+    <!-- FLOT PIE PLUGIN - also used to draw donut charts -->
+    <script src="./plugins/flot/plugins/jquery.flot.pie.js"></script>
 
     <!-- AdminLTE for demo purposes -->
     <!-- <script src="./dist/js/demo.js"></script> -->

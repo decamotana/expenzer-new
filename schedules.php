@@ -123,7 +123,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
             icons: {
                 time: "far fa-clock"
             },
-            format: "MM/DD/YYYY hh:mm",
+            format: "MM/DD/YYYY hh:mm a",
         });
 
 
